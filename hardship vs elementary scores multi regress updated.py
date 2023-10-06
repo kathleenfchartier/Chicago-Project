@@ -8,12 +8,12 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import numpy as np
 
-# DEFINE THE DATABASE CREDENTIALS
-user = 'root'
-password = 'Just4You'
-host = 'localhost'
-port = 3306
-database = 'Chicago_data'
+# DEFINE THE DATABASE CREDENTIALS  - acutal login omitted for security purposes
+user = 'x'
+password = 'x'
+host = 'x'
+port = x
+database = 'x'
 
 # PYTHON FUNCTION TO CONNECT TO THE MYSQL DATABASE AND
 # RETURN THE SQLACHEMY ENGINE OBJECT
