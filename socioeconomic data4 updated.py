@@ -1,3 +1,5 @@
+#  The socioeconomic data4 python file had to be updated due to sqlalchemy 2.0 release.
+
 # IMPORT THE SQALCHEMY LIBRARY's CREATE_ENGINE METHOD
 import sqlalchemy
 import pymysql
@@ -13,11 +15,11 @@ import matplotlib as mpl
 
 
 # DEFINE THE DATABASE CREDENTIALS
-user = 'root'
-password = 'Just4You'
-host = 'localhost'
-port = 3306
-database = 'Chicago_data'
+user = 'x'
+password = 'x'
+host = 'x'
+port = x
+database = 'x'
 
 
 try:
