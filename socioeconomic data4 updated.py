@@ -14,7 +14,7 @@ import matplotlib.ticker as ticker
 import matplotlib as mpl
 
 
-# DEFINE THE DATABASE CREDENTIALS
+# DEFINE THE DATABASE CREDENTIALS  - acutal login omitted for security purposes
 user = 'x'
 password = 'x'
 host = 'x'
