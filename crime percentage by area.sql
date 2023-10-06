@@ -1,3 +1,4 @@
+/*  For each comminity area, find number of crimes and the percentage of total crimes */
 
 SELECT sc.`Community Area`
      , COUNT(`ID`) AS total                     /* Counts the total by community area with group by */
