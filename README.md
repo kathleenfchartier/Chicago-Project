@@ -1,4 +1,4 @@
-# Chicago-Project
+# Chicago-school-socioeconomic-analysis
 Study of Chicago Crime, Public School and Socioeconomic Data
 
 There is a general ‘theory’ that student success in school is affected by their home environment specifically socioeconomic status.  An analysis was completed using MySQL and Python to analyze the data and create various graphs to see if there is a correlation between student performance and socioeconomic status.
